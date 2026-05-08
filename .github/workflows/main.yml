@@ -25,3 +25,4 @@ jobs:
       - name: Mensagem
 
         run: echo "CI funcionando com sucesso!"
+         Teste do CI hoje
